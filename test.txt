@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <<<<<<< c599adaf772eafdbc88be9698c22b90756016ec1
 
 Qrex's change
@@ -12,6 +11,3 @@ d
 dg
 ddg
 >>>>>>> sfgdh
-=======
-sanjog test
->>>>>>> This is sanjog
